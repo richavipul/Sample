@@ -27,7 +27,7 @@
     <snapshotRepository>
       <id>Sample</id>
       <name>Sample</name>
-      <url>http://ec2-54-235-235-255.compute-1.amazonaws.com:8081/nexus/content/repositories/Sample/</url>
+      <url>http://ec2-54-175-7-170.compute-1.amazonaws.com:8081/nexus/content/repositories/Sample/</url>
     </snapshotRepository>
   </distributionManagement>
 </profile>
