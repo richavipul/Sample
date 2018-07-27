@@ -20,8 +20,8 @@
      <id>spring-deploy</id>
  <distributionManagement>
   <snapshotRepository>
-    <id>WarDeployTomcat</id>
-    <url>http://ec2-18-212-4-237.compute-1.amazonaws.com:8081/nexus/content/repositories/WarDeployTomcat/</url>
+    <id>WebApp</id>
+    <url>http://ec2-18-212-4-237.compute-1.amazonaws.com:8081/nexus/content/repositories/WebApp/</url>
   </snapshotRepository>
 </distributionManagement>
 </profile>
