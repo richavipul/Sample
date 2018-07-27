@@ -21,7 +21,7 @@
  <distributionManagement>
   <snapshotRepository>
     <id>WebApp</id>
-    <url>http://ec2-18-212-4-237.compute-1.amazonaws.com:8081/nexus/content/repositories/WebApp/</url>
+    <url>http://ec2-35-172-194-166.compute-1.amazonaws.com:8081/nexus/content/repositories/WebApp/</url>
   </snapshotRepository>
 </distributionManagement>
 </profile>
