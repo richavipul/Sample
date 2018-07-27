@@ -21,7 +21,7 @@
  <distributionManagement>
   <snapshotRepository>
     <id>WarDeployTomcat</id>
-    <url>http://ec2-18-212-4-237.compute-1.amazonaws.com:8081/nexus/content/repositories/WarDeployTomcat</url>
+    <url>http://ec2-18-212-4-237.compute-1.amazonaws.com:8081/nexus/content/repositories/WarDeployTomcat/</url>
   </snapshotRepository>
 </distributionManagement>
 </profile>
